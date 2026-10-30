@@ -19,4 +19,4 @@ TypeScript · React / Next.js · Node.js · PostgreSQL / Supabase · Playwright 
 
 ## Contact
 
-📍 Stockholm · 🌐 [jobbeliten.se](https://www.jobbeliten.se)
+📍 Stockholm · 🌐 [jobbeliten.se](https://www.jobbeliten.se) · 💼 [LinkedIn](https://www.linkedin.com/in/mustafa-ismail-694253198)
